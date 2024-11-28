@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wm2K9zNUpds=",
+  "dgSpecHash": "SUMPPkMaJIM=",
   "success": true,
-  "projectFilePath": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj",
+  "projectFilePath": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tarek\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Tarek\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

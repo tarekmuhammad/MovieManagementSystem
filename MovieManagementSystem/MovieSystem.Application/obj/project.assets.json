@@ -287,11 +287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Application\\MovieSystem.Application.csproj",
+      "projectUniqueName": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Application\\MovieSystem.Application.csproj",
       "projectName": "MovieSystem.Application",
-      "projectPath": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Application\\MovieSystem.Application.csproj",
+      "projectPath": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Application\\MovieSystem.Application.csproj",
       "packagesPath": "C:\\Users\\Tarek\\.nuget\\packages\\",
-      "outputPath": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Application\\obj\\",
+      "outputPath": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
@@ -316,8 +316,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\MovieSystem.Domain.csproj": {
-              "projectPath": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\MovieSystem.Domain.csproj"
+            "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\MovieSystem.Domain.csproj": {
+              "projectPath": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\MovieSystem.Domain.csproj"
             }
           }
         }

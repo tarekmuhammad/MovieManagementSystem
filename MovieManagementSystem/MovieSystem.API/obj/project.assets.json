@@ -4504,11 +4504,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.API\\MovieSystem.API.csproj",
+      "projectUniqueName": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.API\\MovieSystem.API.csproj",
       "projectName": "MovieSystem.API",
-      "projectPath": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.API\\MovieSystem.API.csproj",
+      "projectPath": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.API\\MovieSystem.API.csproj",
       "packagesPath": "C:\\Users\\Tarek\\.nuget\\packages\\",
-      "outputPath": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.API\\obj\\",
+      "outputPath": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
@@ -4533,11 +4533,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Application\\MovieSystem.Application.csproj": {
-              "projectPath": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Application\\MovieSystem.Application.csproj"
+            "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Application\\MovieSystem.Application.csproj": {
+              "projectPath": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Application\\MovieSystem.Application.csproj"
             },
-            "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj": {
-              "projectPath": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj"
+            "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj": {
+              "projectPath": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj"
             }
           }
         }
