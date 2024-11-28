@@ -1,0 +1,130 @@
+
+Admin ---> Seeder
+
+-- Authentecation
+-As a admin, can register to the system
+-As a admin, can login to the system.
+-As a admin, can logout
+
+--User
+-As a admin, can create admin user   ////
+-As a admin, can send welcome email to the user  
+-As a admin, can update admin user ////
+-As a admin, can delete admin user ////
+
+-Role
+-As a admin, can create role ////
+-As a admin, can update role ////
+-As a admin, can delete role ////
+-As a admin, can show all roles with it's permission ////
+
+
+--User - Role - Permission
+-As a admin, can assign role to permission
+-As a admin, can unassign role from permission 
+-As a admin, can show all permissions ////
+-As a admin, can assign role to user
+-As a admin, can revoke role to user
+
+--Permission
+-As a admin, can assign permission to user
+-As a admin, can revoke permission to user
+
+--Category
+-As a admin, can show all categories ////
+-As a admin, can create category and sub category ////
+-As a admin, can edit category ////
+-As a admin, can delete category ////
+
+--Movie
+-As a admin, can show all movies //// Done
+-As a admin, can create movie //// Done
+-As a admin, can edit movie //// Done
+-As a admin, can delete movie //// Done
+-As a admin, can show movie by category id //// Done
+-As a admin, can show movie whether paid or free 
+
+--Reviews
+-As a admin, can show all reviews  ////
+-As a admin, can create new review ////
+-As a admin, can edit review //// 
+-As a admin, can delete any review ////
+-As a admin, can hide/unhide any review. ////
+
+Customer -> seeders
+---Authentication
+-As a Customer, can register to the system
+-As a Customer, can login to the system.
+
+-As a Customer, can logout
+--Profile
+-As a Customer, update his profile info ////
+-As a customer, can watch a movie // insert 
+-As a Customer, can check his history movie. get  // userId -> MovieID
+-As a Customer, can clear his history.
+-As a Customer, can delete single history.
+
+--Category and Movie
+-As a Customer, can show all categories. ////
+-As a Customer, can search for a movie by category id 
+-As a Customer, can search for a movie whether paid or free
+-As a Customer, can show movie details with it's reviews and the recommended movies by category id. 
+-As a customer who not paid , can watch only free movies.
+
+--Reviews
+-As a Customer, can add a review for watched movies. ////
+-As a Customer, can edit a his review. ////
+-As a Customer, can delete a his review. ////
+
+*********************-As a customer, can buy a subscription. Skip**********************************
+
+
+
+
+
+
+
+Categories
+
+
+Action
+Documentary
+Drama
+Comedy
+Animation
+Romance
+Dark Comedy
+Fantasy
+History
+Cartoon
+
+
+
+نحن خلفاء الله ف الأرض
+
+القابضون على الجمر ف زمن الذل والخذلان
+الحقيقة ان لكل منا دوره واثره ف هذه الدنيا
+ادرك ذلك ام لم يدرك
+
+وكما يقال قد تؤدي ضربة فراشة بجناحها في أقصي الشرق
+الى إعصار ف أقصى الغرب
+
+واحذر ان تبخث نفسك حقها
+
+فاانت نسخة فريدة منها لن تتكرر ابد الأباد
+
+بل إن شئت قولت ياقوة منقطعة النظير ولن يجود الزمان بك مرة أخري
+والله يحب معالى الأمور ويكره سفسافها
+فلا تحقرن من همتك شيئا 
+فإن الجبال من الحصى
+تخطي ضعفك
+تخطي ضعفك ونفسك التي  بين جنبيك
+فما خلقت الا للتجاوزها
+وكما قيل عيسى عليه السلام
+لايلج ملكوت السماء من لم يولد مرتين
+ولدت ف الأولى 
+ولن تكون وريثنا بتلك (صلى الله عليه وسلم)
+الا ان ولدت ف الثانية
+وخلعت شرنقة الزيف وتوهم الكمال عنك
+القابضون على الجمر
+

@@ -1,0 +1,16 @@
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Application\bin\Debug\net8.0\MovieSystem.Application.deps.json
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Application\bin\Debug\net8.0\MovieSystem.Application.dll
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Application\bin\Debug\net8.0\MovieSystem.Application.pdb
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Application\bin\Debug\net8.0\MovieSystem.Domain.dll
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Application\bin\Debug\net8.0\MovieSystem.Domain.pdb
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Application\obj\Debug\net8.0\MovieSystem.Application.csproj.AssemblyReference.cache
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Application\obj\Debug\net8.0\MovieSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Application\obj\Debug\net8.0\MovieSystem.Application.AssemblyInfoInputs.cache
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Application\obj\Debug\net8.0\MovieSystem.Application.AssemblyInfo.cs
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Application\obj\Debug\net8.0\MovieSystem.Application.csproj.CoreCompileInputs.cache
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Application\obj\Debug\net8.0\MovieSystem.Application.sourcelink.json
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Application\obj\Debug\net8.0\MovieSys.718D604C.Up2Date
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Application\obj\Debug\net8.0\MovieSystem.Application.dll
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Application\obj\Debug\net8.0\refint\MovieSystem.Application.dll
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Application\obj\Debug\net8.0\MovieSystem.Application.pdb
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Application\obj\Debug\net8.0\ref\MovieSystem.Application.dll

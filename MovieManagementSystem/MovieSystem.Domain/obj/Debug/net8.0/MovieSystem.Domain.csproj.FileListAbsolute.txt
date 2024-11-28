@@ -1,0 +1,12 @@
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Domain\bin\Debug\net8.0\MovieSystem.Domain.deps.json
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Domain\bin\Debug\net8.0\MovieSystem.Domain.dll
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Domain\bin\Debug\net8.0\MovieSystem.Domain.pdb
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Domain\obj\Debug\net8.0\MovieSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Domain\obj\Debug\net8.0\MovieSystem.Domain.AssemblyInfoInputs.cache
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Domain\obj\Debug\net8.0\MovieSystem.Domain.AssemblyInfo.cs
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Domain\obj\Debug\net8.0\MovieSystem.Domain.csproj.CoreCompileInputs.cache
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Domain\obj\Debug\net8.0\MovieSystem.Domain.sourcelink.json
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Domain\obj\Debug\net8.0\MovieSystem.Domain.dll
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Domain\obj\Debug\net8.0\refint\MovieSystem.Domain.dll
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Domain\obj\Debug\net8.0\MovieSystem.Domain.pdb
+D:\Repository\WorkShop\MovieManagementSystem\MovieSystem.Domain\obj\Debug\net8.0\ref\MovieSystem.Domain.dll

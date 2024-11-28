@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F70F9F49-3C4D-4269-A258-49FE54493B59}|MovieSystem.Application\\MovieSystem.Application.csproj|d:\\repository\\all_project\\workshop\\moviemanagementsystem\\moviesystem.application\\contracts\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F70F9F49-3C4D-4269-A258-49FE54493B59}|MovieSystem.Application\\MovieSystem.Application.csproj|solutionrelative:moviesystem.application\\contracts\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7285228E-A66F-41E4-A5FD-FB57B137F8BE}|MovieSystem.Domain\\MovieSystem.Domain.csproj|d:\\repository\\all_project\\workshop\\moviemanagementsystem\\moviesystem.domain\\entities\\commen\\subscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7285228E-A66F-41E4-A5FD-FB57B137F8BE}|MovieSystem.Domain\\MovieSystem.Domain.csproj|solutionrelative:moviesystem.domain\\entities\\commen\\subscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C0DE3F-2ACD-409F-B69F-36D66F2506F1}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|d:\\repository\\all_project\\workshop\\moviemanagementsystem\\moviesystem.infrastructure\\presistance\\data\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C0DE3F-2ACD-409F-B69F-36D66F2506F1}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|solutionrelative:moviesystem.infrastructure\\presistance\\data\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C0DE3F-2ACD-409F-B69F-36D66F2506F1}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|d:\\repository\\all_project\\workshop\\moviemanagementsystem\\moviesystem.infrastructure\\presistance\\data\\fluentapi\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C0DE3F-2ACD-409F-B69F-36D66F2506F1}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|solutionrelative:moviesystem.infrastructure\\presistance\\data\\fluentapi\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C0DE3F-2ACD-409F-B69F-36D66F2506F1}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|d:\\repository\\all_project\\workshop\\moviemanagementsystem\\moviesystem.infrastructure\\presistance\\seeding\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C0DE3F-2ACD-409F-B69F-36D66F2506F1}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|solutionrelative:moviesystem.infrastructure\\presistance\\seeding\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C0DE3F-2ACD-409F-B69F-36D66F2506F1}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|d:\\repository\\all_project\\workshop\\moviemanagementsystem\\moviesystem.infrastructure\\presistance\\models\\userpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C0DE3F-2ACD-409F-B69F-36D66F2506F1}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|solutionrelative:moviesystem.infrastructure\\presistance\\models\\userpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Migrations\\20241125214811_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C0DE3F-2ACD-409F-B69F-36D66F2506F1}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|d:\\repository\\all_project\\workshop\\moviemanagementsystem\\moviesystem.infrastructure\\presistance\\models\\usermovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C0DE3F-2ACD-409F-B69F-36D66F2506F1}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|solutionrelative:moviesystem.infrastructure\\presistance\\models\\usermovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C0DE3F-2ACD-409F-B69F-36D66F2506F1}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|d:\\repository\\all_project\\workshop\\moviemanagementsystem\\moviesystem.infrastructure\\presistance\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C0DE3F-2ACD-409F-B69F-36D66F2506F1}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|solutionrelative:moviesystem.infrastructure\\presistance\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7285228E-A66F-41E4-A5FD-FB57B137F8BE}|MovieSystem.Domain\\MovieSystem.Domain.csproj|d:\\repository\\all_project\\workshop\\moviemanagementsystem\\moviesystem.domain\\entities\\commen\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7285228E-A66F-41E4-A5FD-FB57B137F8BE}|MovieSystem.Domain\\MovieSystem.Domain.csproj|solutionrelative:moviesystem.domain\\entities\\commen\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7285228E-A66F-41E4-A5FD-FB57B137F8BE}|MovieSystem.Domain\\MovieSystem.Domain.csproj|d:\\repository\\all_project\\workshop\\moviemanagementsystem\\moviesystem.domain\\entities\\commen\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7285228E-A66F-41E4-A5FD-FB57B137F8BE}|MovieSystem.Domain\\MovieSystem.Domain.csproj|solutionrelative:moviesystem.domain\\entities\\commen\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7285228E-A66F-41E4-A5FD-FB57B137F8BE}|MovieSystem.Domain\\MovieSystem.Domain.csproj|d:\\repository\\all_project\\workshop\\moviemanagementsystem\\moviesystem.domain\\entities\\commen\\moviecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7285228E-A66F-41E4-A5FD-FB57B137F8BE}|MovieSystem.Domain\\MovieSystem.Domain.csproj|solutionrelative:moviesystem.domain\\entities\\commen\\moviecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7285228E-A66F-41E4-A5FD-FB57B137F8BE}|MovieSystem.Domain\\MovieSystem.Domain.csproj|d:\\repository\\all_project\\workshop\\moviemanagementsystem\\moviesystem.domain\\entities\\commen\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7285228E-A66F-41E4-A5FD-FB57B137F8BE}|MovieSystem.Domain\\MovieSystem.Domain.csproj|solutionrelative:moviesystem.domain\\entities\\commen\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C0DE3F-2ACD-409F-B69F-36D66F2506F1}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|d:\\repository\\all_project\\workshop\\moviemanagementsystem\\moviesystem.infrastructure\\presistance\\models\\custommovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C0DE3F-2ACD-409F-B69F-36D66F2506F1}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|solutionrelative:moviesystem.infrastructure\\presistance\\models\\custommovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Migrations\\20241125212347_New.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C0DE3F-2ACD-409F-B69F-36D66F2506F1}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|d:\\repository\\all_project\\workshop\\moviemanagementsystem\\moviesystem.infrastructure\\migrations\\20241125220349_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C0DE3F-2ACD-409F-B69F-36D66F2506F1}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|solutionrelative:moviesystem.infrastructure\\migrations\\20241125220349_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Application\\Contracts\\Service\\RoleService.cs",
+              "RelativeDocumentMoniker": "MovieSystem.Application\\Contracts\\Service\\RoleService.cs",
+              "ToolTip": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Application\\Contracts\\Service\\RoleService.cs",
+              "RelativeToolTip": "MovieSystem.Application\\Contracts\\Service\\RoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:48:09.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241125220349_new.cs",
+              "DocumentMoniker": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Migrations\\20241125220349_new.cs",
+              "RelativeDocumentMoniker": "MovieSystem.Infrastructure\\Migrations\\20241125220349_new.cs",
+              "ToolTip": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Migrations\\20241125220349_new.cs",
+              "RelativeToolTip": "MovieSystem.Infrastructure\\Migrations\\20241125220349_new.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:03:49.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Presistance\\Data\\MovieContext.cs",
+              "RelativeDocumentMoniker": "MovieSystem.Infrastructure\\Presistance\\Data\\MovieContext.cs",
+              "ToolTip": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Presistance\\Data\\MovieContext.cs",
+              "RelativeToolTip": "MovieSystem.Infrastructure\\Presistance\\Data\\MovieContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:59:27.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserPermission.cs",
+              "DocumentMoniker": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Presistance\\Models\\UserPermission.cs",
+              "RelativeDocumentMoniker": "MovieSystem.Infrastructure\\Presistance\\Models\\UserPermission.cs",
+              "ToolTip": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Presistance\\Models\\UserPermission.cs",
+              "RelativeToolTip": "MovieSystem.Infrastructure\\Presistance\\Models\\UserPermission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:56:55.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Presistance\\Seeding\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "MovieSystem.Infrastructure\\Presistance\\Seeding\\DbInitializer.cs",
+              "ToolTip": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Presistance\\Seeding\\DbInitializer.cs",
+              "RelativeToolTip": "MovieSystem.Infrastructure\\Presistance\\Seeding\\DbInitializer.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAD4v1AAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:33:26.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Presistance\\Data\\FluentApi\\Configuration.cs",
+              "RelativeDocumentMoniker": "MovieSystem.Infrastructure\\Presistance\\Data\\FluentApi\\Configuration.cs",
+              "ToolTip": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Presistance\\Data\\FluentApi\\Configuration.cs",
+              "RelativeToolTip": "MovieSystem.Infrastructure\\Presistance\\Data\\FluentApi\\Configuration.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAGoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:32:36.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subscriptions.cs",
+              "DocumentMoniker": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\Entities\\Commen\\Subscriptions.cs",
+              "RelativeDocumentMoniker": "MovieSystem.Domain\\Entities\\Commen\\Subscriptions.cs",
+              "ToolTip": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\Entities\\Commen\\Subscriptions.cs",
+              "RelativeToolTip": "MovieSystem.Domain\\Entities\\Commen\\Subscriptions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:24:30.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241125214811_new.cs",
+              "DocumentMoniker": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Migrations\\20241125214811_new.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Migrations\\20241125214811_new.cs",
+              "ToolTip": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Migrations\\20241125214811_new.cs",
+              "RelativeToolTip": "..\\..\\..\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Migrations\\20241125214811_new.cs",
+              "ViewState": "AgIAAFkBAAAAAAAAAAAAAEIBAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:48:12.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserMovie.cs",
+              "DocumentMoniker": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Presistance\\Models\\UserMovie.cs",
+              "RelativeDocumentMoniker": "MovieSystem.Infrastructure\\Presistance\\Models\\UserMovie.cs",
+              "ToolTip": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Presistance\\Models\\UserMovie.cs",
+              "RelativeToolTip": "MovieSystem.Infrastructure\\Presistance\\Models\\UserMovie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:30:23.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\Entities\\Commen\\Country.cs",
+              "RelativeDocumentMoniker": "MovieSystem.Domain\\Entities\\Commen\\Country.cs",
+              "ToolTip": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\Entities\\Commen\\Country.cs",
+              "RelativeToolTip": "MovieSystem.Domain\\Entities\\Commen\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:31:37.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Like.cs",
+              "DocumentMoniker": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\Entities\\Commen\\Like.cs",
+              "RelativeDocumentMoniker": "MovieSystem.Domain\\Entities\\Commen\\Like.cs",
+              "ToolTip": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\Entities\\Commen\\Like.cs",
+              "RelativeToolTip": "MovieSystem.Domain\\Entities\\Commen\\Like.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:31:26.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieCast.cs",
+              "DocumentMoniker": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\Entities\\Commen\\MovieCast.cs",
+              "RelativeDocumentMoniker": "MovieSystem.Domain\\Entities\\Commen\\MovieCast.cs",
+              "ToolTip": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\Entities\\Commen\\MovieCast.cs",
+              "RelativeToolTip": "MovieSystem.Domain\\Entities\\Commen\\MovieCast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:30:52.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\Entities\\Commen\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieSystem.Domain\\Entities\\Commen\\Movie.cs",
+              "ToolTip": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\Entities\\Commen\\Movie.cs",
+              "RelativeToolTip": "MovieSystem.Domain\\Entities\\Commen\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:30:35.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomMovie.cs",
+              "DocumentMoniker": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Presistance\\Models\\CustomMovie.cs",
+              "RelativeDocumentMoniker": "MovieSystem.Infrastructure\\Presistance\\Models\\CustomMovie.cs",
+              "ToolTip": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Presistance\\Models\\CustomMovie.cs",
+              "RelativeToolTip": "MovieSystem.Infrastructure\\Presistance\\Models\\CustomMovie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:30:14.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Presistance\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "MovieSystem.Infrastructure\\Presistance\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Presistance\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "MovieSystem.Infrastructure\\Presistance\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:27:48.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241125212347_New.cs",
+              "DocumentMoniker": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Migrations\\20241125212347_New.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Migrations\\20241125212347_New.cs",
+              "ToolTip": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Migrations\\20241125212347_New.cs",
+              "RelativeToolTip": "..\\..\\..\\WorkShop\\MovieManagementSystem\\MovieSystem.Infrastructure\\Migrations\\20241125212347_New.cs",
+              "ViewState": "AgIAALABAAAAAAAAAAAAAE0BAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:23:48.227Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

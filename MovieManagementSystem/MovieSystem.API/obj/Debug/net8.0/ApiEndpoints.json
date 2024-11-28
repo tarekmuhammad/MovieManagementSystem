@@ -1,0 +1,484 @@
+[
+  {
+    "ContainingType": "MovieSystem.API.Controllers.AssignController",
+    "Method": "AssignRoleToPermission",
+    "RelativePath": "AssignRoleToPermission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.AssignRolePermissionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.AssignController",
+    "Method": "AssignUserToPermission",
+    "RelativePath": "AssignUserToPermission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.AssignUserPermissionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.AssignController",
+    "Method": "AssignUserToRole",
+    "RelativePath": "AssignUserToRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.AssignUserRoleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.MovieController",
+    "Method": "Create",
+    "RelativePath": "CreateMovie",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.MovieCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.CategoryController",
+    "Method": "CreateParentCategory",
+    "RelativePath": "CreateParentCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.ParentCategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.ReviewController",
+    "Method": "CreateSubCategory",
+    "RelativePath": "CreateReview",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.ReviewCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.RoleController",
+    "Method": "Create",
+    "RelativePath": "CreateRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.RoleCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.CategoryController",
+    "Method": "CreateSubCategory",
+    "RelativePath": "CreateSubCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.SubCategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.UserController",
+    "Method": "Create",
+    "RelativePath": "CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.UserCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.CategoryController",
+    "Method": "Delete",
+    "RelativePath": "DeleteCategory/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.MovieController",
+    "Method": "Delete",
+    "RelativePath": "DeleteMovie",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.MovieDeleteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.ReviewController",
+    "Method": "Delete",
+    "RelativePath": "DeleteReview/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.RoleController",
+    "Method": "Delete",
+    "RelativePath": "DeleteRole/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.UserController",
+    "Method": "Delete",
+    "RelativePath": "DeleteUser/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.CategoryController",
+    "Method": "Get",
+    "RelativePath": "GetAlCategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.MovieController",
+    "Method": "Get",
+    "RelativePath": "GetAllMovies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.RoleController",
+    "Method": "Get",
+    "RelativePath": "GetAllRoles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.UserController",
+    "Method": "Get",
+    "RelativePath": "GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.ReviewController",
+    "Method": "Get",
+    "RelativePath": "GetAlReviews",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.CategoryController",
+    "Method": "GetById",
+    "RelativePath": "GetCategory/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.MovieController",
+    "Method": "GetById",
+    "RelativePath": "GetMovie/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.MovieController",
+    "Method": "GetMoviesByCategoryId",
+    "RelativePath": "GetMovieByCategoryId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.RoleController",
+    "Method": "GetById",
+    "RelativePath": "GetRole/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.UserController",
+    "Method": "GetById",
+    "RelativePath": "GetUser/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.AssignController",
+    "Method": "RevokeRolePermission",
+    "RelativePath": "RevokeRoleToPermission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.AssignRolePermissionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.AssignController",
+    "Method": "RevokeUserPermission",
+    "RelativePath": "RevokeUserPermission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.AssignUserPermissionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.AssignController",
+    "Method": "RevokeUserRole",
+    "RelativePath": "RevokeUserToRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.AssignUserRoleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.CategoryController",
+    "Method": "Update",
+    "RelativePath": "UpdateCategory",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.CategoryUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.MovieController",
+    "Method": "Update",
+    "RelativePath": "UpdateMovie",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.MovieUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.ReviewController",
+    "Method": "Update",
+    "RelativePath": "UpdateReview",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.ReviewUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.RoleController",
+    "Method": "Update",
+    "RelativePath": "UpdateRole",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.RoleUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieSystem.API.Controllers.UserController",
+    "Method": "Update",
+    "RelativePath": "UpdateUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MovieSystem.Application.DTO.UserUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
