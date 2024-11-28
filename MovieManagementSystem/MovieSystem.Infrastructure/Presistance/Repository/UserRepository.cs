@@ -38,10 +38,10 @@ namespace MovieSystem.Infrastructure.Presistance.Repository
             throw new NotImplementedException();
         }
 
-        //public void Logoutsssss()
-        //{
-        //    throw new NotImplementedException();
-        //}
+        public void Logoutsssss()
+        {
+            throw new NotImplementedException();
+        }
 
     }
 }
