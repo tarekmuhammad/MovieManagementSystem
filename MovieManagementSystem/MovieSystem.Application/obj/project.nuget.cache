@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "31yVC/0qhBw=",
+  "dgSpecHash": "EvcM3ATT0cA=",
   "success": true,
-  "projectFilePath": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Application\\MovieSystem.Application.csproj",
+  "projectFilePath": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Application\\MovieSystem.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tarek\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Tarek\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",

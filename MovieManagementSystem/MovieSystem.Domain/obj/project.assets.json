@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\MovieSystem.Domain.csproj",
+      "projectUniqueName": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\MovieSystem.Domain.csproj",
       "projectName": "MovieSystem.Domain",
-      "projectPath": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\MovieSystem.Domain.csproj",
+      "projectPath": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\MovieSystem.Domain.csproj",
       "packagesPath": "C:\\Users\\Tarek\\.nuget\\packages\\",
-      "outputPath": "D:\\Repository\\ALL_Project\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\obj\\",
+      "outputPath": "D:\\Repository\\WorkShop\\MovieManagementSystem\\MovieSystem.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
